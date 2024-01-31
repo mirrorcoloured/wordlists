@@ -1,133 +1,131 @@
-Aeromodelling
-Aikido
-Archery
-Arm Wrestling
-Backgammon
-Badminton
-Baseball
-Basket Ball
-Billiards
-Bingo
-Bird Watching
-Blackjack
-Bobsledding
-Bowling
-Boxing
-Bull Fighting
-Bungy Jump
-Bridge
-Camping
-Canoeing
-Caravaning
-Carrom
-Charades
-Checkers
-Chess
-Chinese Checkers
-Chinese Chess
-Cock Fighting
-Computer Games
-Crickets
-Croquet
-Cycling
-Dancing
-Darts
-Decathlon
-Discus
-Diving(Scuba)
-Diving(Springboard)
-Dog Racing
-Dominoes
-Exploring
-Fantan
-Fencing
-Fishing
-Flying
-Flying Kites
-Football
-Frisbees
-Gambling
-Gin Rummy
-Gliding
-Go
-Go Carting
-Go Skating
-Go Skiing
-Golf
-Gymnastics
-Hang Gliding
-High Jump
-Hockey
-Horse Racing
-Horse Riding
-Hot Air Balloon
-Hunting
-Hurdle
-Ice Hockey
-Ice Skating
-Jai Alai
-Javelin
-Jogging
-Judo
-Jujitsu
-Karate
-Kendo
-Kung Fu
-Lacrosse
-Long Jump
-Lottery
-Mah Jong
-Marathon
-Marbles
-Monopoly
-Motorbike racing
-Mountaineering
-Netball
-One-arm Bandit
-Parachuting
-Pinball
-Poker
-Polo
-Reversi
-Rock Climbing
-Rodeo
-Roller Skating
-Roulette
-Rowing
-Rugby
-Running
-Sailing
-Scrabble
-Skateboarding
-Skating
-Skiing
-Skipping
-Sky Diving
-Shooting
-Snake and Ladder
-Snorkeling
-Soccer
-Softball
-Solitaire
-Spelunking
-Sprinting
-Squash
-Sumo Wrestling
-Surfing
-Swimming
-Table Tennis
-Tae Kwon Do
-Tai Chi
-Tennis
-Tombola
-Trampoline
-Treasure Hunt
-Trekking
-Tug of War
-Video Games
-Volleyball
-Water Polo
-Weight Lifting
-Windsurfing
-Wrestling
-Yachting
+aeromodelling
+aikido
+archery
+armwrestling
+backgammon
+badminton
+baseball
+basketball
+billiards
+bingo
+birdwatching
+blackjack
+bobsledding
+bowling
+boxing
+bridge
+bullfighting
+bungyjump
+camping
+canoeing
+caravaning
+carrom
+charades
+checkers
+chess
+chinesecheckers
+chinesechess
+computergames
+crickets
+croquet
+cycling
+dancing
+darts
+decathlon
+discus
+diving
+dogracing
+dominoes
+exploring
+fantan
+fencing
+fishing
+flying
+flyingkites
+football
+frisbees
+gambling
+ginrummy
+gliding
+go
+gocarting
+golf
+goskating
+goskiing
+gymnastics
+hanggliding
+highjump
+hockey
+horseracing
+horseriding
+hotairballoon
+hunting
+hurdle
+icehockey
+iceskating
+jaialai
+javelin
+jogging
+judo
+jujitsu
+karate
+kendo
+kungfu
+lacrosse
+longjump
+lottery
+mahjong
+marathon
+marbles
+monopoly
+motorbikeracing
+mountaineering
+netball
+one-armbandit
+parachuting
+pinball
+poker
+polo
+reversi
+rockclimbing
+rodeo
+rollerskating
+roulette
+rowing
+rugby
+running
+sailing
+scrabble
+shooting
+skateboarding
+skating
+skiing
+skipping
+skydiving
+snakeandladder
+snorkeling
+soccer
+softball
+solitaire
+spelunking
+sprinting
+squash
+sumowrestling
+surfing
+swimming
+tabletennis
+taekwondo
+taichi
+tennis
+tombola
+trampoline
+treasurehunt
+trekking
+tugofwar
+videogames
+volleyball
+waterpolo
+weightlifting
+windsurfing
+wrestling
+yachting
